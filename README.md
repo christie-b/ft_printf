@@ -1,5 +1,7 @@
 # ft_printf
 
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cboutier/ft_printf)](https://github.com/JaeSeoKim/badge42)
+
 Validated on June 15th, 2021
 
 100/100
