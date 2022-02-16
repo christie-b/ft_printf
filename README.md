@@ -30,5 +30,5 @@ Specifier | Meaning... |
 printf width and precision were also implemented, as well as the return value, which is the number of characters it prints.
 
 **HOW TO RUN THE PROGRAM:**  
-`make`
+`make`  
 `./ft_printf`
