@@ -15,3 +15,16 @@ Here are the requirements:
 • Don’t implement the buffer management of the original printf().
 
 • Your function has to handle the following conversions: cspdiuxX%
+
+Specifier | Meaning... |
+--- | --- |
+**d or i** | int |
+**u** | unsigned int |
+**x** | hexadecimal number (lowercase) |
+**X** | hexadecimal number (uppercase) |
+**p** | pointer (= an address) |
+**c** | 1 character |
+**s** | string |
+**%** | print a '%' |
+
+printf width and precision were also implemented, as well as the return value, which is the number of characters it prints.
